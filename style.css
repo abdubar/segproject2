@@ -1,8 +1,5 @@
 
 
-
-
-
 body{
 	margin:0px;
 	padding:0px;
@@ -257,15 +254,9 @@ ul.team-social li a {
 }
 
 
-/*Stats */
-
-
-.stats-section{
-	background:url(../images/bg.jpg) no-repeat;
-}
-
+/*Stats Section*/
 .stats-section {
-    background-size: cover !important;
+    background-color: #fcc302; /* Add background color */
     padding: 100px 0px 70px;
 }
 
@@ -283,6 +274,7 @@ ul.team-social li a {
     color: #FFF;
     font-weight: 700;
 }
+
 
 
 
